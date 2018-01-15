@@ -1,1 +1,2 @@
 This is my first git file.
+***This file should be now treated as Modified for the 1st time.***
