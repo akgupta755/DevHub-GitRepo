@@ -1,3 +1,3 @@
-This is my first git file.
+This is my first (modified file for the firstbranch) git file.
 ***This file should be now treated as Modified for the 1st time.***
 ***Modifying the file as part of first branch.***
